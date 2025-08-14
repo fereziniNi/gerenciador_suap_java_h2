@@ -11,6 +11,8 @@ import java.util.Scanner;
 import java.util.logging.Level;
 
 public class Main {
+    // Trabalho feito em Dupla
+    // Alunos: Christian Ricci e Nícolas Ferezini
     public static void main(String[] args) {
         java.util.logging.Logger.getLogger("org.hibernate").setLevel(Level.OFF);
         Scanner scanner = new Scanner(System.in);
